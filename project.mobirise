@@ -18,11 +18,11 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
-        "isRtl": false
+        "isRtl": true
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -148,7 +148,7 @@
             "showButtons": true
           },
           "title": "Class Act Productions",
-          "text": "(CAP)<br><br>Class Act Productions, located in San Diego, CA, provides elegant &amp; exciting bands, musicians, DJ's &amp; unique entertainers for your special event.<br>",
+          "text": "(CAP)<br><br>Class Act Productions, located in San Diego, CA, provides elegant &amp; exciting bands, musicians, DJ's &amp; unique entertainers for your special event<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO BOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
             ".mbr-section-title": {
@@ -172,7 +172,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Class Act Productions."
         },
         {
           "_tags": [
@@ -266,7 +266,7 @@
           "title4": "Surf",
           "subtitle4": "Surfin Captains&nbsp;<div><br></div><div><br></div>",
           "caption4": "Songs of surfing, the ocean and homage to the world of 'parrotheads'.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://cloudup.com/cyG6zr89OYX\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Brown Eyed Girl</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cwG3BHxfi90\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Have A Good Time</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cFqAuNhH8A7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Margaritaville</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cot81TjgEsU\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">One Particular Harbor</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://cloudup.com/cyG6zr89OYX\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Brown Eyed Girl</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cwG3BHxfi90\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Have A Good Time</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cFqAuNhH8A7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Margaritaville</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cot81TjgEsU\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">One Particular Harbor</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/c7GyA8JdYcK\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Secret Agent Man</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -495,7 +495,7 @@
           },
           "title3": "Country Western",
           "subtitle3": "Hay Fever!",
-          "caption3": "A rip-roaring, knee-bashing good time. Entertaining audiences for 20 years here in San Diego.<br><br>Country-comedy at it finest. Every one on these musicians has been rejected numerous times from other bands for being too crazy and self-absorbed. Since they all suffer from the same personality disorders, they were introduced to each other by the bands that wanted to get rid of them. Kismet! It was like completing a puzzle. None of them noticed how outgoing and entertaining the player next to them was, so nobody was jealous. The perfect match!<br>",
+          "caption3": "A rip-roaring, knee-bashing good time. Entertaining audiences for 20 years here in San Diego.<br><br>Country-comedy at it finest. Every one on these musicians has been rejected numerous times from other bands for being too crazy and self-absorbed. Since they all suffer from the same personality disorders, they were introduced to each other by the bands that wanted to get rid of them. Kismet! It was like completing a puzzle. None of them noticed how outgoing and entertaining the player next to them was, so nobody was jealous. The &nbsp;perfect match<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://cloudup.com/cVWp4TiNI4n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Cripple Creek</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cdp-zEmVLOR\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Memories Of You</a> <a data-app-btn=\"true\" href=\"https://cloudup.com/cuFx7QA-eSJ\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Hey Good Lookin</a>",
           "media4": {
             "image": {
@@ -726,7 +726,7 @@
           "title2": "Soloists",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Piano, Keyboards, Steel Drum, Sax/Flute, Accordian, Violin, Drums.<br><br>1st class professional musicians for all events.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/dj-600x616.jpg",
@@ -758,7 +758,7 @@
           "title4": "Dancers",
           "subtitle4": "The Island Fever Party Dancers",
           "caption4": "The Island Fever Party Girls incite contagious warmth, fun &amp; enthusiasm into every performance! Charismatic &amp; exciting, they lead the audience through dances, such as the Limbo, the Conga Line, the Jamaican Butterfly, &amp; line dances.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -788,6 +788,109 @@
               "background-color": "#2e2e2e"
             }
           }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/green-800x1515.png",
+                "image": "@PROJECT_PATH@/assets/images/green.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/red-800x1515.png",
+                "image": "@PROJECT_PATH@/assets/images/red.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/molassi-800x1570.png",
+                "image": "@PROJECT_PATH@/assets/images/molassi.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lorraine-800x1167.png",
+                "image": "@PROJECT_PATH@/assets/images/lorraine.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miranda-800x960.png",
+                "image": "@PROJECT_PATH@/assets/images/miranda.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roxanne-800x1515.png",
+                "image": "@PROJECT_PATH@/assets/images/roxanne.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/caribheat-800x486.png",
+                "image": "@PROJECT_PATH@/assets/images/caribheat.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mirandas-1b-2000x1666-800x666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mirandas-1b-2000x1666.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "3",
+            "showText": false,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-6",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
