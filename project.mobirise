@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -758,7 +758,7 @@
           "title4": "Dancers",
           "subtitle4": "The Island Fever Party Dancers",
           "caption4": "The Island Fever Party Girls incite contagious warmth, fun &amp; enthusiasm into every performance! Charismatic &amp; exciting, they lead the audience through dances, such as the Limbo, the Conga Line, the Jamaican Butterfly, &amp; line dances.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://keytarman.github.io/page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
