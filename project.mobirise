@@ -104,7 +104,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -867,7 +867,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1027,7 +1027,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1266,7 +1266,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1468,7 +1468,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1602,7 +1602,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1740,7 +1740,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -1871,7 +1871,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -2043,7 +2043,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -2091,7 +2091,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bigbandcp-1400x683.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rick-sabrina2-copy-1400x2062.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2126,7 +2126,12 @@
           "_params": {
             "showText": true
           },
-          "text": "<div><br></div><div>Fine Dancin' &amp; Limin' Grooves</div><div>To Warm Your Hearts &amp; Lift Your Spirits&nbsp;</div><br><div>CALYPSO - SOCA - REGGAE &nbsp;- SALSA - SAMBA - JAZZ &nbsp;- WORLD - OLDIES - SURF &amp; More</div><div><br></div><div>Featuring steel pans (steel drums from Trinidad), hot dance rhythms, keyboard, bass &amp; guitar licks, cool sax &amp; flute, &amp; sweet vocal harmonies.</div><div><br></div><div>The Island Fever Steel Drum Band stirs up a spicy blend of Caribbean &amp; California styles, lively energy, charisma &amp; showmanship</div><div><br></div><div>WHERE TO CATCH ISLAND FEVER</div><div><br></div><div>At concerts, music festivals, and conventions. They are popular performers at the World Famous San Diego Zoo, Wild Animal Park, Sea World, Seaport Village, and other theme parks. Island Fever is also in great demand for special events at resorts, fine hotels, &amp; beach parties. </div><br><div><br></div><br><div>F<span style=\"font-size: 1rem; line-height: 1.5;\">or more information on Island Fever, visit www.islandfever.com</span></div>"
+          "text": "<div><br></div><div>Fine Dancin' &amp; Limin' Grooves</div><div>To Warm Your Hearts &amp; Lift Your Spirits&nbsp;</div><br><div>CALYPSO - SOCA - REGGAE &nbsp;- SALSA - SAMBA - JAZZ &nbsp;- WORLD - OLDIES - SURF &amp; More</div><div><br></div><div>Featuring steel pans (steel drums from Trinidad), hot dance rhythms, keyboard, bass &amp; guitar licks, cool sax &amp; flute, &amp; sweet vocal harmonies.</div><div><br></div><div>The Island Fever Steel Drum Band stirs up a spicy blend of Caribbean &amp; California styles, lively energy, charisma &amp; showmanship</div><div><br></div><div>WHERE TO CATCH ISLAND FEVER</div><div><br></div><div>At concerts, music festivals, and conventions. They are popular performers at the World Famous San Diego Zoo, Wild Animal Park, Sea World, Seaport Village, and other theme parks. Island Fever is also in great demand for special events at resorts, fine hotels, &amp; beach parties For more information on Island Fever, visit www.islandfever.com</div>",
+          "_styles": {
+            "DIV": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_inherit": "features4",
