@@ -497,12 +497,6 @@ h6,
 #features1-4 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#content6-t P {
-  text-align: left;
-}
-#content6-t UL {
-  text-align: center;
-}
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
