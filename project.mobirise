@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Referrals.html",
+    "currentPage": "DJ 1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
         },
         {
           "_name": "header1",
@@ -742,7 +742,7 @@
           "title3": "DJ / MC",
           "subtitle3": "Ron Nathan",
           "caption3": "The DJ/Master of Ceremonies is the person who makes sure your special event is a great success. He is your personal connection between you, your guests, the caterer, the photographer, and the videographer. His duties are to make all announcements, to organize all special dances, and to motivate you and your guests by engaging them in numerous fun filled audience participation. His personality, tailored with class, style, and etiquette, will create an enjoyable atmosphere for you and your guests. He takes pride in helping people have a great time.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mirandas-2b-600x720.jpg",
@@ -891,6 +891,41 @@
           "_anchor": "gallery3-6",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Our Mission Is Simple...</p><p><br></p><p><i>To make every performance better than the last.</i></p><p><i>To listen carefully to our customers needs.</i></p><p><i>To be prepared for each event and always have a backup plan if things don't go exactly as expected.&nbsp;</i></p><p><i>To deliver on promises and exceed expectations</i></p><p><i>To be available and reachable to serve our customers needs at all times.</i></p><p><i>To keep ahead of music trends and equipment innovations.</i></p><p><i>Be a leader in our field but always place quality ahead of </i></p><p><i>growth.</i></p><p>Choosing a DJ for your function is one of the most</p><p> </p><p>important decisions you can make to insure the success of the event. Everything else can be perfect, but if the music isn't good, the party will fizzle. Class Act Productions promises to do everything in our power to ensure your guests will talk about your event for years to come!</p>",
+          "text2": "<ul><li>Tips for Selecting a DJ</li><li><br></li></ul><p>Well, of course the best way would be if you have recently attended an event, and liked the DJ that performed. If this is not your situation, then the Yellow Pages, and the Internet are a good place to start. The bigger the ad does not always mean better. I can't stress that enough. Once you get a hold of a DJ, remember your gut, and first impressions are always right. If you do not like their personality, and communication skills over the phone, then chances are they are not the right choice.</p><p><b>Should you meet the DJ</b>?</p><p>Meet the DJ that will be performing your show before you sign a Contract. Some Disc Jockey companies will have you first talk to a Salesperson then a Coordinator and then, maybe, the DJ. In many cases you don't get to meet the DJ that will be doing your show until show time. These companies subcontract most of their work to inexperienced young DJs for $30 per hour. Or you may get a substitute DJ at the last minute. You should meet your DJ before signing the Contract and before the actual show date to go over arrangements and format.</p><p>Be cautioned by companies that only send a video! The video they send may not display what you are going to have at your event. The video taped event could also be staged or may be edited to make the party seem more attractive. The only \"fail-safe\" guarantee is to talk to past clients and see how that Disc Jockey performed. It has become a common trend to request videos because most couples are not aware of a better method. If you do decide to preview via video, use it as a tool only and make sure to check ample references to ensure a sound choice.</p><p><b>How many shows of your type has your DJ performed in the past? Or, how long has he been working as a Disc Jockey?</b></p><p>The more shows your DJ has performed like yours, will be a good indicator of his experience. More experience ensures a better show and a little higher cost. Saving a few dollars on an important show may result in something less than your expected. And it could ruin your events. Ask for references. That brings us to Professional References like Caterers, Banquet Facilities, Photographers, etc. These professionals work with your Dj, and see them in action. Don't forget though, they work in the same industry. Many DJ's will give these venders \"kick backs\" just to refer them, or use them for a reference, and the Dj will do the same in return. That is why I feel client references are more accurate and honest.</p><p><b>Will your DJ coordinate, MC and organize the activities at your show?</b></p><p>When you meet with a Disc Jockey to qualify them, make sure they customize their performance to what you want to create. The performer will suggest tips and techniques that work, but each wedding requires a different prescription; one that is authentic and represents you with taste. Ask the Disc Jockey if they have a routine or rehearsed performance. If they do, they may not be willing to follow your plan. Your DJ should take an active part in helping you plan the format and timing of your event. He will work with you to organize all activities at your event and then remind you when each is to take place. He can make all announcements for you and handle all the details so you can enjoy the fun. Ask him questions. His experience can really help you.</p><p><b>What type of media should be used?</b></p><p>Music in a digital format is most common. I look at it this way, if the music is crisp, and clear who cares what format its on. How many CD's should a Dj have? There is no right answer for that. One Dj could have 400 CD's, and another 800. But what's on them is what counts. Obtaining a Song List is unnecessary. Most reputable Disc Jockey companies have similar collections of songs and if they gave you an actual list, it would require hundreds of pages to print. Furthermore, most professional Disc Jockey companies update their collection on a weekly basis. This makes it difficult to really know what music they have at any moment. Professional Disc Jockey companies have tens of thousands of dollars invested in their music libraries. If you need help picking out your favorite songs, this is a good topic to bring up when you meet with your chosen performer. Gather suggestions from them. If they are professional, they should be able to assist you in creating your wedding's own unique musical style as well as taking care of your guests on your wedding day. Remember, a good Disc Jockey performer will customize their choices, performance, and presentation to your event, not read from a Song List.</p><p><b>What class or type of equipment does your DJ use?</b></p><p>Most couples are not able to decipher between professional and unprofessional sound gear. If you are in this category, that's ok. When you contact references, ask if they were happy with the sound quality and appearance of the equipment at their event. This is not a full-proof way to guarantee professional equipment, but knowing past client's opinions should give you more peace of mind when hiring or choosing between services.</p><p><b>Does your Disc Jockey carry \"back up\" equipment and/or personnel?</b></p><p>Even the best of equipment can break. Carrying \"back up\" equipment will guarantee that your show will go on if something fails. A professional will have available emergency personnel in case of accident or illness.</p><p>Will your Disc Jockey arrive on Time?</p><p>Punctuality is a necessity, and as professional business people, they should be aware of their responsibilitiesto their clients. Normal time for the set up and removal of equipment is not part of the normal entertainment fee.</p><p>How should your Dj dress?</p><p>What ever you want them to wear. It is very important that your DJ not only act the part but look it as well. In most cases, a Tuxedo is the proper formal wear for a Wedding and many other events. Sometime, there may be a \"theme event\" where the DJ would fit in better dressed like the guests.</p><p><b>What should I look for in the contract?</b></p><p>Measure a company's credibility by the contract they send out. Make sure the date, time, location, payments, due dates, terms, refunds, your responsibilities, and any other special items are spelled out on the contract and the provisions of the contract are clear. If you have questions about any items, ask the company specific questions. Make sure there is no hidden costs or fine print that might mislead you. Always, make sure the DJ you hire signs it. If not make sure their name is on the contract. Large franchises are famous for switching around DJ's. The Dj you meet at the consultation, might not be the one that shows up at your event. Ask questions, if your not sure about what it says. If the Dj avoids answering it, that should tell you something right there.</p><p>Before you call a company, spend some time answering these questions:</p><p><br></p><p>How much am I comfortable spending on entertainment?</p><p>What kind of music do I want?</p><p>What is the age range of the majority of the guests I have invited?</p><p>What kind of music do I think would work well with my guests?</p><p>What have I seen a Disc Jockey do that I liked at an event?</p><p>What have I seen a Disc Jockey do at an event that I did not like?</p><p>What do I want to happen with my entertainment at my event?</p><p>How do I want my performer to present him/herself?</p><p>What do I want them to wear?</p><p>How involved do I want them to be?</p><p>How do I want to feel about my wedding day once the last song is played?</p><p>When you can answer all of these questions, you will have your preferences in place. The answers to all these questions will also help you sift through the many potential services and find a reputable company to deliver your \"dream wedding day\".</p><p><br></p><p><br></p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
@@ -986,7 +1021,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
         },
         {
           "_name": "footer1",
@@ -1144,7 +1179,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
         },
         {
           "_name": "footer1",
@@ -1383,7 +1418,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
         },
         {
           "_tags": [
@@ -1585,7 +1620,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -1621,6 +1656,278 @@
           "title": "Some of our past clients",
           "text": "<p><br></p><p>ARCO</p><p>IBM</p><p>Apple Computer</p><p>Microsoft</p><p>Hewlett-Packard</p><p>Republican National Convention</p><p>San Diego Chargers</p><p>San Diego Padres</p><p>American Express</p><p>Sony Corp.</p><p>General Motors</p><p>The San Diego Bar Association</p><p>Master Card</p><p>Citibank</p><p>University of Southern California</p><p>San Diego State University</p><p>Long Beach State University</p><p>UCSD</p><p>Pan Pacific Conference</p><p>La Jolla Playhouse</p><p>Motown</p><p>Cox Communication</p><p>Sempra</p><p>Disney</p><p>Kaiser</p><p>MTV</p><p>San Diego Mardi Gras<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p><p>Dear Ron and Island Fever</p><p>Thank you for being part of Mardi Gras.The crowd loved your group, and having you down on the streets to entertain made such a huge difference. Thank you again for making this years Mardi Gras the best to date, and if you ever need anything please do not hesitate to call. -Laurel McFarlane... McFarlane Promotions</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+        }
+      ]
+    },
+    "DJ 1.html": {
+      "settings": {
+        "title": "DJ 1",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-v",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Class Act Productions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content6-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Our Mission Is Simple...</p><p><br></p><p><i>To make every performance better than the last.</i></p><p><i>To listen carefully to our customers needs.</i></p><p><i>To be prepared for each event and always have a backup plan if things don't go exactly as expected.&nbsp;</i></p><p><i>To deliver on promises and exceed expectations</i></p><p><i>To be available and reachable to serve our customers needs at all times.</i></p><p><i>To keep ahead of music trends and equipment innovations.</i></p><p><i>Be a leader in our field but always place quality ahead of </i></p><p><i>growth.</i></p><p>Choosing a DJ for your function is one of the most</p><p> </p><p>important decisions you can make to insure the success of the event. Everything else can be perfect, but if the music isn't good, the party will fizzle. Class Act Productions promises to do everything in our power to ensure your guests will talk about your event for years to come!</p>",
+          "text2": "<ul><li>Tips for Selecting a DJ</li><li><br></li></ul><p>Well, of course the best way would be if you have recently attended an event, and liked the DJ that performed. If this is not your situation, then the Yellow Pages, and the Internet are a good place to start. The bigger the ad does not always mean better. I can't stress that enough. Once you get a hold of a DJ, remember your gut, and first impressions are always right. If you do not like their personality, and communication skills over the phone, then chances are they are not the right choice.</p><p><b>Should you meet the DJ</b>?</p><p>Meet the DJ that will be performing your show before you sign a Contract. Some Disc Jockey companies will have you first talk to a Salesperson then a Coordinator and then, maybe, the DJ. In many cases you don't get to meet the DJ that will be doing your show until show time. These companies subcontract most of their work to inexperienced young DJs for $30 per hour. Or you may get a substitute DJ at the last minute. You should meet your DJ before signing the Contract and before the actual show date to go over arrangements and format.</p><p>Be cautioned by companies that only send a video! The video they send may not display what you are going to have at your event. The video taped event could also be staged or may be edited to make the party seem more attractive. The only \"fail-safe\" guarantee is to talk to past clients and see how that Disc Jockey performed. It has become a common trend to request videos because most couples are not aware of a better method. If you do decide to preview via video, use it as a tool only and make sure to check ample references to ensure a sound choice.</p><p><b>How many shows of your type has your DJ performed in the past? Or, how long has he been working as a Disc Jockey?</b></p><p>The more shows your DJ has performed like yours, will be a good indicator of his experience. More experience ensures a better show and a little higher cost. Saving a few dollars on an important show may result in something less than your expected. And it could ruin your events. Ask for references. That brings us to Professional References like Caterers, Banquet Facilities, Photographers, etc. These professionals work with your Dj, and see them in action. Don't forget though, they work in the same industry. Many DJ's will give these venders \"kick backs\" just to refer them, or use them for a reference, and the Dj will do the same in return. That is why I feel client references are more accurate and honest.</p><p><b>Will your DJ coordinate, MC and organize the activities at your show?</b></p><p>When you meet with a Disc Jockey to qualify them, make sure they customize their performance to what you want to create. The performer will suggest tips and techniques that work, but each wedding requires a different prescription; one that is authentic and represents you with taste. Ask the Disc Jockey if they have a routine or rehearsed performance. If they do, they may not be willing to follow your plan. Your DJ should take an active part in helping you plan the format and timing of your event. He will work with you to organize all activities at your event and then remind you when each is to take place. He can make all announcements for you and handle all the details so you can enjoy the fun. Ask him questions. His experience can really help you.</p><p><b>What type of media should be used?</b></p><p>Music in a digital format is most common. I look at it this way, if the music is crisp, and clear who cares what format its on. How many CD's should a Dj have? There is no right answer for that. One Dj could have 400 CD's, and another 800. But what's on them is what counts. Obtaining a Song List is unnecessary. Most reputable Disc Jockey companies have similar collections of songs and if they gave you an actual list, it would require hundreds of pages to print. Furthermore, most professional Disc Jockey companies update their collection on a weekly basis. This makes it difficult to really know what music they have at any moment. Professional Disc Jockey companies have tens of thousands of dollars invested in their music libraries. If you need help picking out your favorite songs, this is a good topic to bring up when you meet with your chosen performer. Gather suggestions from them. If they are professional, they should be able to assist you in creating your wedding's own unique musical style as well as taking care of your guests on your wedding day. Remember, a good Disc Jockey performer will customize their choices, performance, and presentation to your event, not read from a Song List.</p><p><b>What class or type of equipment does your DJ use?</b></p><p>Most couples are not able to decipher between professional and unprofessional sound gear. If you are in this category, that's ok. When you contact references, ask if they were happy with the sound quality and appearance of the equipment at their event. This is not a full-proof way to guarantee professional equipment, but knowing past client's opinions should give you more peace of mind when hiring or choosing between services.</p><p><b>Does your Disc Jockey carry \"back up\" equipment and/or personnel?</b></p><p>Even the best of equipment can break. Carrying \"back up\" equipment will guarantee that your show will go on if something fails. A professional will have available emergency personnel in case of accident or illness.</p><p>Will your Disc Jockey arrive on Time?</p><p>Punctuality is a necessity, and as professional business people, they should be aware of their responsibilitiesto their clients. Normal time for the set up and removal of equipment is not part of the normal entertainment fee.</p><p>How should your Dj dress?</p><p>What ever you want them to wear. It is very important that your DJ not only act the part but look it as well. In most cases, a Tuxedo is the proper formal wear for a Wedding and many other events. Sometime, there may be a \"theme event\" where the DJ would fit in better dressed like the guests.</p><p><b>What should I look for in the contract?</b></p><p>Measure a company's credibility by the contract they send out. Make sure the date, time, location, payments, due dates, terms, refunds, your responsibilities, and any other special items are spelled out on the contract and the provisions of the contract are clear. If you have questions about any items, ask the company specific questions. Make sure there is no hidden costs or fine print that might mislead you. Always, make sure the DJ you hire signs it. If not make sure their name is on the contract. Large franchises are famous for switching around DJ's. The Dj you meet at the consultation, might not be the one that shows up at your event. Ask questions, if your not sure about what it says. If the Dj avoids answering it, that should tell you something right there.</p><p>Before you call a company, spend some time answering these questions:</p><p><br></p><p>How much am I comfortable spending on entertainment?</p><p>What kind of music do I want?</p><p>What is the age range of the majority of the guests I have invited?</p><p>What kind of music do I think would work well with my guests?</p><p>What have I seen a Disc Jockey do that I liked at an event?</p><p>What have I seen a Disc Jockey do at an event that I did not like?</p><p>What do I want to happen with my entertainment at my event?</p><p>How do I want my performer to present him/herself?</p><p>What do I want them to wear?</p><p>How involved do I want them to be?</p><p>How do I want to feel about my wedding day once the last song is played?</p><p>When you can answer all of these questions, you will have your preferences in place. The answers to all these questions will also help you sift through the many potential services and find a reputable company to deliver your \"dream wedding day\".</p><p><br></p><p><br></p>"
+        }
+      ]
+    },
+    "DJ 2.html": {
+      "settings": {
+        "title": "DJ 2",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-16",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://keytarman.github.io/about%20us.html\">About CAP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Special Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Weddings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">DJ Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Corporate Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://keytarman.github.io/Referrals.html\">Past Clients</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://keytarman.github.io/paypal.html\">Reserve/Pay Online</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-17",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Class Act Productions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Prior to Booking</b></p><p><br></p><p>We believe it to be important for a bride and groom to be able to get to know their prospective disc jockey before they book so they know exactly who they are hiring. We would be happy to set up a personal appointment to meet and discuss your wedding with you. &nbsp;</p><p><br></p><p><b>Booking Our Services</b></p><p><br></p><p>Booking our service for your reception couldn’t be easier. Once you have decided to go with us, all that we need is for you to fill out a contract and submit your deposit. Once this is done you have secured our service for the day of your wedding. No detailed information is needed at this time. About 1 month before your event we will set up an appointment to meet with you and go over every little detail of your wedding. We’ll find out exactly what you want and expect, as well as what you don’t want. &nbsp;</p><p><br></p><p><b>The Day of Your Wedding</b></p><p><br></p><p>Once the big day arrives, it’s all up to us. We will arrive an hour before your guests are scheduled to arrive to set up and double check our system. Our goal for that day is to make your wedding as enjoyable for you and your guests as possible. We will act as a complete emcee for the evening as well as the DJ. We also meet with the photographer and videographer when they arrive. We believe that the entertainment is the most important factor for a successful reception. Being able to work well with all of the professionals involved on your special night is what makes a reception run smoothly. It also ensures that you will have the entire day to enjoy your guests and each other, instead of worrying about any details. We want every guest to leave saying how much fun they had. But, above all want the two of you leaving feeling like your wedding was magical! &nbsp;</p><p><br></p><p><br></p>"
         }
       ]
     }
